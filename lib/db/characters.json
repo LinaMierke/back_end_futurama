@@ -1,5 +1,18 @@
 
 [
+  {
+    "species": "Mutant (believed to be an Alien before reuniting with her parents)",
+    "age": "25-31",
+    "planet": "Earth",
+    "profession": "Currently: Captain and pilot of the Planet Express delivery ship, Formerly: Cryogenic Counselor at Applied Cryogenics, pitcher for the New New York Mets,",
+    "status": "Alive",
+    "firstAppearance": "Space Pilot 3000",
+    "picUrl": "https://static.wikia.nocookie.net/enfuturama/images/a/ae/Turanga-Leela.png/revision/latest/scale-to-width-down/350?cb=20200506091523",
+    "relatives": "Great-grandmother: Munda's grandmother, Grandmother: Munda's mother, Mother: Turanga Munda, Father: Turanga Morris, Children: Kif Kroker's Offspring",
+    "voicedBy": "Katey Sagal",
+    "quote": "...at least here you'll be treated with dignity. Now strip naked and get on\nthe probulator.",
+    "name": "Turanga Leela"
+  },
     {
       "species": "Formerly: HumanCurrently: Head in Jar",
       "age": "Unknown",
@@ -193,18 +206,6 @@
       "name": "Theodore Roosevelt's head"
     },
     {
-      "species": "Unknown",
-      "age": "Unknown",
-      "planet": "Unknown",
-      "profession": "Unknown",
-      "status": "Unknown",
-      "firstAppearance": "Unknown",
-      "picUrl": "https://res.cloudinary.com/teepublic/image/private/s--RisVF5Vs--/t_Preview/b_rgb:fffefe,c_limit,f_jpg,h_630,q_90,w_630/v1475865828/production/designs/720040_1.jpg",
-      "relatives": "no relatives available",
-      "voicedBy": "Unknown",
-      "name": "Benders from benderama"
-    },
-    {
       "species": "Formerly: HumanCurrently: Head in Jar",
       "age": "Unknown",
       "planet": "Earth",
@@ -256,12 +257,13 @@
       "species": "Human",
       "age": "25- 41 (chronologically 2×1040 (Due to the time travel))",
       "planet": "Earth",
-      "profession": "Currently: Intergalactic delivery boyFormerly: Pizza delivery boy, emperor, pope, slave, cryogenics administrator, captain, first-mate, animal trainer, holophone player, holophone composer, police officer, soldierAs Lars: Head tank feeder",
+      "profession": "Currently: Intergalactic delivery boy Formerly: Pizza delivery boy, emperor, pope, slave, cryogenics administrator, captain, first-mate, animal trainer, holophone player, holophone composer, police officer, soldierAs Lars: Head tank feeder",
       "status": "Alive",
       "firstAppearance": "\"Space Pilot 3000\"",
       "picUrl": "https://vignette.wikia.nocookie.net/en.futurama/images/f/f2/PhilipJ.Fry.png/revision/latest?cb=20110916120042",
       "relatives": "Philip J. Fry I,Turanga Leela,Kif Kroker's offspring,Yancy Fry Sr.,Yancy Fry Sr.,Mrs. Fry,Yancy Fry,Mildred Fry,Enos Fry,Philip J. Fry II",
       "voicedBy": "Billy West Iván Muelas (Spain)",
+      "quote": "...it's what seperates humans and robots from animals and animal robots., I haven't had time off since I was 21 through 24.",
       "name": "Philip J. Fry"
     },
     {
@@ -274,6 +276,7 @@
       "picUrl": "https://vignette.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest/scale-to-width-down/350?cb=20150206072725",
       "relatives": "Bender Bending Rodríguez's mother,Bender Bending Rodríguez's father,Flexo,Bender Bending Rodríguez's first born son,Ben Rodríguez,Vladimir,Rita,Tandy",
       "voicedBy": "John DiMaggio",
+      "quote": "Bite my shiny metal ass., Everybody's a jerk: you, me, this jerk., Of all the friends I've had, you're the first., I hate the people that love me, and they hate me., That'll take forever. What she ought to do is find a nice guy with two eyes\nand poke one out., A grim day for robot-kind. But we can always build more killbots., I'm gonna drink 'til I reboot., What kind of party is this? There's no booze and only one hooker., I assure you, I barely know the meaning of the word labor., I'm a fraud. A poor, lazy, sexy fraud.",
       "name": "Bender Bending Rodríguez"
     },
     {
@@ -335,5 +338,44 @@
       "relatives": "Fanny,Bella",
       "voicedBy": "Maurice LaMarche",
       "name": "Donbot"
+    },
+    {
+      "species": "Robot",
+      "age": "1052",
+      "planet": "Earth",
+      "profession": "Actor",
+      "status": "Deceased",
+      "firstAppearance": "I, Roommate",
+      "picUrl": "https://static.wikia.nocookie.net/enfuturama/images/b/b3/Calculon-2.JPG/revision/latest/scale-to-width-down/350?cb=20090604015557",
+      "relatives": "Son: Antonio Calculon, Jr., Half Brother: Boxy, Ex fiancé: Coilette",
+      "voicedBy": "Maurice LaMarche",
+      "quote": "Me too. I'm filled with a large number of powerful emotions., Hey, this one's for the new couple. It's your day. It's all about you. Who's that singing at your wedding? It's Calculon, Calculon, Calculon!, Oh, fate most cruel, would that my boundless acting skills would avail mе a sword with which to slay this wretched curse.",
+      "name": "Calculon"
+    },
+    {
+      "species": "Human",
+      "age": "159-165",
+      "planet": "Earth",
+      "profession": "Currently: Scientist, owner and founder of the Planet Express delivery company, Formerly: Professor at Mars University, Engineer and scientist at Mom's Friendly Robot Company",
+      "status": "Alive",
+      "firstAppearance": "Space Pilot 3000",
+      "picUrl": "https://static.wikia.nocookie.net/enfuturama/images/4/4e/Professor-Farnsworth.png/revision/latest/scale-to-width-down/346?cb=20200506091733",
+      "relatives": "x32 Grandmother: Mildred Fry, ×30 Uncle & x32 Philip J. Fry, ×30 Aunt & x32 Step-Grandmother: Turanga Leela, Grandmother: Grandma Farnsworth, Father: Ned Farnsworth, Mother: Velma Farnsworth, Brother: Floyd Farnsworth, Sons: Cubert J. Farnsworth and Igner, Alter-egos: Female Farnsworth",
+      "voicedBy": "Billy West",
+      "quote": "Good news, everyone!, ...each pound of which weighs over 10,000 pounds., Now, now, there will be plenty of time to discuss your objections when and if you return.",
+      "name": "Hubert J. Farnsworth"
+    },
+    {
+      "species": "Human",
+      "age": "28-34",
+      "planet": "Earth",
+      "profession": "Currently: General in the DOOP, Captain of the Nimbus Formerly: Captain of the Titanic, Planet Express crew member",
+      "status": "Alive",
+      "firstAppearance": "Love's Labours Lost in Space",
+      "picUrl": "https://static.wikia.nocookie.net/enfuturama/images/7/73/Zapp-Brannigan.png/revision/latest/scale-to-width-down/346?cb=20200506091829",
+      "relatives": "Ex-Lover(s): Turanga Leela, Amy Wong Ex-Fiancee: Turanga Munda (Leela's mother)",
+      "voicedBy": "Billy West",
+      "quote": "Leela, you're obviously confused and aroused., In the game of chess you can never let your adversary see your pieces., I'm anticipating an all-out tactical dogfight, followed by a light dinner., You remind me of a young me. Not much younger mind you; perhaps even a couple of years older.",
+      "name": "Zapp Brannigan"
     }
   ]
