@@ -29,7 +29,7 @@ The Futurama database contains a lib folder, where you can find the data, connec
 | "/quote/:quote"         |   /quote     |   GET         |  #index  | List quotes by quotes         |
 |        "/"              |   /          |   POST        |  #create | Create a new quote            |
 | "/quote/:quote"         |   /quote     |   PATCH / PUT |  #update | Update quote                  |
-| "/:quote"               |   /quote     |   Delete      | #destroy | Delete quote                  |
+| "/:quote"               |   /quote     |   DELETE      | #destroy | Delete quote                  |
 
 
 # Documentation
