@@ -19,13 +19,13 @@ The Futurama database contains a lib folder, where you can find the data, connec
 |      URL                |  Path        |  Method       |   Action |   Description                 |
 |-------------------------|--------------|---------------|----------|-------------------------------|
 |       "/"               |   /          |   GET         |  #index  |  List all items of character  |
-
+|-------------------------|--------------|---------------|----------|-------------------------------|
 | "/planet/:planet"       |   /planet    |   GET         |  #index  | Show resources by planet name |
-
+|-------------------------|--------------|---------------|----------|-------------------------------|
 | "/name/:name"           |   /name      |   GET         |  #index  | Show character by name        |
-
+|-------------------------|--------------|---------------|----------|-------------------------------|
 |       "/"               |   /          |   POST        |  #Create | Create a new character        |
-
+|-------------------------|--------------|---------------|----------|-------------------------------|
 | "/planet/:name"         |   /name      |   PATCH / PUT |  #Update | Update Planet name            |
 |-------------------------|--------------|---------------|----------|-------------------------------|
 | "/delete/:id"           |   /id        |   DELETE      | #destroy | Delete by id                  |
