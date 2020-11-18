@@ -21,15 +21,15 @@ The Futurama database contains a lib folder, where you can find the data, connec
 |       "/"               |   /          |   GET         |  #index  |  List all items of character  |
 | "/planet/:planet"       |   /planet    |   GET         |  #index  | Show resources by planet name |
 | "/name/:name"           |   /name      |   GET         |  #index  | Show character by name        |
-|       "/"               |   /          |   POST        |  #Create | Create a new character        |
-| "/planet/:name"         |   /name      |   PATCH / PUT |  #Update | Update Planet name            |
+|       "/"               |   /          |   POST        |  #create | Create a new character        |
+| "/planet/:name"         |   /name      |   PATCH / PUT |  #update | Update Planet name            |
 | "/delete/:id"           |   /id        |   DELETE      | #destroy | Delete by id                  |
 |       "/"               |   /          |   GET         |  #index  | List all quotes               |
 | "/character/:character" |   /character |   GET         |  #index  | List quotes by character      |
 | "/quote/:quote"         |   /quote     |   GET         |  #index  | List quotes by quotes         |
-|        "/"              |   /          |   POST        |  #Create | Create a new quote            |
-| "/quote/:quote"         |   /quote     |   PATCH / PUT |  #Update | Update quote                  |
-| "/:quote"               |   /quote     |   Delete      | #Destroy | Delete quote                  |
+|        "/"              |   /          |   POST        |  #create | Create a new quote            |
+| "/quote/:quote"         |   /quote     |   PATCH / PUT |  #update | Update quote                  |
+| "/:quote"               |   /quote     |   Delete      | #destroy | Delete quote                  |
 
 
 # Documentation
