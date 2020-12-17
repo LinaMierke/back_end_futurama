@@ -2,8 +2,9 @@
 
 This porject was created using the data information from : 
 
-*https://futurama-project.herokuapp.com/*
+*https://futurama-project.herokuapp.com/characters*
 
+*https://futurama-project.herokuapp.com/quotes*
 The Futurama database contains a lib folder, where you can find the data, connections, schemas and routes. Each section contains a variety levels of code that will allow the user to understand how to conect to the localhost:3000 and access to it. 
 
 
